@@ -1,7 +1,7 @@
 {
   "name": "midway-vue-ssr",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@midwayjs/decorator": "^2.3.0",
     "@midwayjs/web": "^2.3.0",
