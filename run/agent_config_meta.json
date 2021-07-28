@@ -1,0 +1,296 @@
+{
+  "keys": "/Users/nowcoder/code/RAIN/CodeTime/src/config/config.default.ts",
+  "middleware": "/Users/nowcoder/code/RAIN/CodeTime/src/config/config.default.ts",
+  "static": {
+    "prefix": "/Users/nowcoder/code/RAIN/CodeTime/src/config/config.default.ts",
+    "dir": "/Users/nowcoder/code/RAIN/CodeTime/src/config/config.default.ts",
+    "dynamic": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+      "useSession": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "name": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "version": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "private": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "@midwayjs/decorator": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "@midwayjs/web": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "axios": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "egg": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "ssr-core-vue": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "ssr-types": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "swiper": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "vant": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "vue": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "vue-awesome-swiper": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@midwayjs/egg-ts-helper": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "cross-env": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "eslint-config-standard-vue-ts": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "ssr": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "ssr-plugin-midway": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "ssr-plugin-vue": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "prod": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "stop": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "dev": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "start": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "start:vite": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "build": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "deploy": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "deploy:tencent": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "lint": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "lint:fix": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "midway-integration": {
+      "tsCodeRoot": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "midway-luckyeye": {
+      "packages": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "egg": {
+      "framework": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "strict": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "depth": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "env": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "level": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "coreLogName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "agentLogName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "errorLogName": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "logging": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "port": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+  "midwayFeature": {
+    "replaceEggLogger": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js"
+  },
+  "pluginOverwrite": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+  "alinode": {
+    "logdir": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "error_log": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "packages": "/Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js"
+  }
+}

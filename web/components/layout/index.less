@@ -1,8 +1,11 @@
-@import '../../common.less';
+@import "../../common.less";
 
 * {
   margin: 0;
   padding: 0;
+  font-size: 14px; // 设置初始化字体大小、
+  // ? 为啥会有这么一句
+  // <script>var w = document.documentElement.clientWidth / 3.75;document.getElementsByTagName('html')[0].style['font-size'] = w + 'px'</script>
 }
 
 a {
@@ -14,10 +17,8 @@ ul {
   list-style: none;
 }
 
-
 .loading {
   width: 30px;
   height: 30px;
-  .verticalLevelCenter
+  .verticalLevelCenter;
 }
-

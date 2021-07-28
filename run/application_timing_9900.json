@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1627444134229,
+    "end": 1627444139033,
+    "duration": 4804,
+    "pid": 9900,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1627444139034,
+    "end": 1627444139243,
+    "duration": 209,
+    "pid": 9900,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1627444139035,
+    "end": 1627444139039,
+    "duration": 4,
+    "pid": 9900,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1627444139039,
+    "end": 1627444139043,
+    "duration": 4,
+    "pid": 9900,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1627444139039,
+    "end": 1627444139039,
+    "duration": 0,
+    "pid": 9900,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1627444139039,
+    "end": 1627444139039,
+    "duration": 0,
+    "pid": 9900,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/config/config.default.js",
+    "start": 1627444139039,
+    "end": 1627444139039,
+    "duration": 0,
+    "pid": 9900,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.default.js",
+    "start": 1627444139039,
+    "end": 1627444139039,
+    "duration": 0,
+    "pid": 9900,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1627444139039,
+    "end": 1627444139039,
+    "duration": 0,
+    "pid": 9900,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-onerror/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-schedule/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 15
+  },
+  {
+    "name": "Require(12) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.default.js",
+    "start": 1627444139040,
+    "end": 1627444139040,
+    "duration": 0,
+    "pid": 9900,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/config/config.default.js",
+    "start": 1627444139041,
+    "end": 1627444139041,
+    "duration": 0,
+    "pid": 9900,
+    "index": 17
+  },
+  {
+    "name": "Require(14) config/config.default.ts",
+    "start": 1627444139041,
+    "end": 1627444139041,
+    "duration": 0,
+    "pid": 9900,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/config/config.local.js",
+    "start": 1627444139042,
+    "end": 1627444139042,
+    "duration": 0,
+    "pid": 9900,
+    "index": 19
+  },
+  {
+    "name": "Require(16) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/config/config.local.js",
+    "start": 1627444139042,
+    "end": 1627444139042,
+    "duration": 0,
+    "pid": 9900,
+    "index": 20
+  },
+  {
+    "name": "Require(17) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/config/config.local.js",
+    "start": 1627444139042,
+    "end": 1627444139042,
+    "duration": 0,
+    "pid": 9900,
+    "index": 21
+  },
+  {
+    "name": "Require(18) config/config.local.ts",
+    "start": 1627444139042,
+    "end": 1627444139042,
+    "duration": 0,
+    "pid": 9900,
+    "index": 22
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1627444139047,
+    "end": 1627444139059,
+    "duration": 12,
+    "pid": 9900,
+    "index": 23
+  },
+  {
+    "name": "Require(19) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/app/extend/application.js",
+    "start": 1627444139048,
+    "end": 1627444139048,
+    "duration": 0,
+    "pid": 9900,
+    "index": 24
+  },
+  {
+    "name": "Require(20) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/app/extend/application.js",
+    "start": 1627444139048,
+    "end": 1627444139049,
+    "duration": 1,
+    "pid": 9900,
+    "index": 25
+  },
+  {
+    "name": "Require(21) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1627444139049,
+    "end": 1627444139049,
+    "duration": 0,
+    "pid": 9900,
+    "index": 26
+  },
+  {
+    "name": "Require(22) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1627444139050,
+    "end": 1627444139050,
+    "duration": 0,
+    "pid": 9900,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/app/extend/application.js",
+    "start": 1627444139050,
+    "end": 1627444139051,
+    "duration": 1,
+    "pid": 9900,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-mock/app/extend/application.js",
+    "start": 1627444139052,
+    "end": 1627444139055,
+    "duration": 3,
+    "pid": 9900,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/mock/app/extend/application.js",
+    "start": 1627444139056,
+    "end": 1627444139057,
+    "duration": 1,
+    "pid": 9900,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/app/extend/application.js",
+    "start": 1627444139057,
+    "end": 1627444139058,
+    "duration": 1,
+    "pid": 9900,
+    "index": 31
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1627444139059,
+    "end": 1627444139062,
+    "duration": 3,
+    "pid": 9900,
+    "index": 32
+  },
+  {
+    "name": "Require(27) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/app/extend/request.js",
+    "start": 1627444139060,
+    "end": 1627444139061,
+    "duration": 1,
+    "pid": 9900,
+    "index": 33
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1627444139062,
+    "end": 1627444139067,
+    "duration": 5,
+    "pid": 9900,
+    "index": 34
+  },
+  {
+    "name": "Require(28) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/app/extend/response.js",
+    "start": 1627444139063,
+    "end": 1627444139065,
+    "duration": 2,
+    "pid": 9900,
+    "index": 35
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139068,
+    "duration": 1,
+    "pid": 9900,
+    "index": 36
+  },
+  {
+    "name": "Require(29) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 37
+  },
+  {
+    "name": "Require(30) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 38
+  },
+  {
+    "name": "Require(31) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 39
+  },
+  {
+    "name": "Require(32) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 40
+  },
+  {
+    "name": "Require(33) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-view/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 41
+  },
+  {
+    "name": "Require(34) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 42
+  },
+  {
+    "name": "Require(35) /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1627444139067,
+    "end": 1627444139067,
+    "duration": 0,
+    "pid": 9900,
+    "index": 43
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1627444139068,
+    "end": 1627444139086,
+    "duration": 18,
+    "pid": 9900,
+    "index": 44
+  },
+  {
+    "name": "Require(36) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/app/extend/helper.js",
+    "start": 1627444139068,
+    "end": 1627444139084,
+    "duration": 16,
+    "pid": 9900,
+    "index": 45
+  },
+  {
+    "name": "Require(37) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg/app/extend/helper.js",
+    "start": 1627444139084,
+    "end": 1627444139085,
+    "duration": 1,
+    "pid": 9900,
+    "index": 46
+  },
+  {
+    "name": "Load app.js",
+    "start": 1627444139086,
+    "end": 1627444139116,
+    "duration": 30,
+    "pid": 9900,
+    "index": 47
+  },
+  {
+    "name": "Require(38) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-session/app.js",
+    "start": 1627444139086,
+    "end": 1627444139086,
+    "duration": 0,
+    "pid": 9900,
+    "index": 48
+  },
+  {
+    "name": "Require(39) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-security/app.js",
+    "start": 1627444139086,
+    "end": 1627444139088,
+    "duration": 2,
+    "pid": 9900,
+    "index": 49
+  },
+  {
+    "name": "Require(40) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-onerror/app.js",
+    "start": 1627444139088,
+    "end": 1627444139095,
+    "duration": 7,
+    "pid": 9900,
+    "index": 50
+  },
+  {
+    "name": "Require(41) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-i18n/app.js",
+    "start": 1627444139095,
+    "end": 1627444139109,
+    "duration": 14,
+    "pid": 9900,
+    "index": 51
+  },
+  {
+    "name": "Require(42) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-schedule/app.js",
+    "start": 1627444139109,
+    "end": 1627444139110,
+    "duration": 1,
+    "pid": 9900,
+    "index": 52
+  },
+  {
+    "name": "Require(43) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-multipart/app.js",
+    "start": 1627444139111,
+    "end": 1627444139111,
+    "duration": 0,
+    "pid": 9900,
+    "index": 53
+  },
+  {
+    "name": "Require(44) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-logrotator/app.js",
+    "start": 1627444139111,
+    "end": 1627444139112,
+    "duration": 1,
+    "pid": 9900,
+    "index": 54
+  },
+  {
+    "name": "Require(45) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-static/app.js",
+    "start": 1627444139112,
+    "end": 1627444139112,
+    "duration": 0,
+    "pid": 9900,
+    "index": 55
+  },
+  {
+    "name": "Require(46) /Users/nowcoder/code/RAIN/CodeTime/node_modules/midway-schedule/app.js",
+    "start": 1627444139112,
+    "end": 1627444139113,
+    "duration": 1,
+    "pid": 9900,
+    "index": 56
+  },
+  {
+    "name": "Require(47) /Users/nowcoder/code/RAIN/CodeTime/node_modules/egg-mock/app.js",
+    "start": 1627444139113,
+    "end": 1627444139114,
+    "duration": 1,
+    "pid": 9900,
+    "index": 57
+  },
+  {
+    "name": "Require(48) /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/app.js",
+    "start": 1627444139115,
+    "end": 1627444139116,
+    "duration": 1,
+    "pid": 9900,
+    "index": 58
+  },
+  {
+    "name": "Require(49) app.ts",
+    "start": 1627444139116,
+    "end": 1627444139116,
+    "duration": 0,
+    "pid": 9900,
+    "index": 59
+  },
+  {
+    "name": "Did Load in /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/app.js:didLoad",
+    "start": 1627444139122,
+    "end": 1627444139223,
+    "duration": 101,
+    "pid": 9900,
+    "index": 60
+  },
+  {
+    "name": "Load Service",
+    "start": 1627444139122,
+    "end": 1627444139125,
+    "duration": 3,
+    "pid": 9900,
+    "index": 61
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1627444139122,
+    "end": 1627444139125,
+    "duration": 3,
+    "pid": 9900,
+    "index": 62
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1627444139125,
+    "end": 1627444139222,
+    "duration": 97,
+    "pid": 9900,
+    "index": 63
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1627444139125,
+    "end": 1627444139222,
+    "duration": 97,
+    "pid": 9900,
+    "index": 64
+  },
+  {
+    "name": "Load Controller",
+    "start": 1627444139222,
+    "end": 1627444139223,
+    "duration": 1,
+    "pid": 9900,
+    "index": 65
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1627444139222,
+    "end": 1627444139223,
+    "duration": 1,
+    "pid": 9900,
+    "index": 66
+  },
+  {
+    "name": "Load Router",
+    "start": 1627444139223,
+    "end": 1627444139223,
+    "duration": 0,
+    "pid": 9900,
+    "index": 67
+  },
+  {
+    "name": "Will Ready in /Users/nowcoder/code/RAIN/CodeTime/node_modules/@midwayjs/web/app.js:willReady",
+    "start": 1627444139226,
+    "end": 1627444139241,
+    "duration": 15,
+    "pid": 9900,
+    "index": 68
+  }
+]

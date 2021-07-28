@@ -2,6 +2,22 @@
 
 > 用于进行代码 coding 时间的处理及展示
 
+## ui
+
+> 内置支持 vant  antd
+
+```shell
+yarn add vant
+```
+
+```js
+// 组件中使用
+import Button from 'vant/lib/button'
+import 'vant/lib/button/index.less'
+import Field from 'vant/lib/field'
+import 'vant/lib/field/index.less'
+```
+
 ## 技术栈
 
 ykfe/ssr 官方文档请查看 [http://doc.ssr-fc.com/](http://doc.ssr-fc.com/)
